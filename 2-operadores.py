@@ -42,3 +42,28 @@ print(f or f)
 print('-----------------------------------NOT')
 print(not v)
 print(not f)
+
+#4. Operadores de Asignación
+# suma y asigna (+=)
+print("--------------------------------------+=")
+edad = 20
+edad += 5
+print(edad)
+
+# resta y asigna (-=)
+print("---------------------------------------=")
+saldo = 100
+saldo -= 10
+print(saldo)
+
+# multiplica y asigna (*=)
+print("--------------------------------------*=")
+precio = 30
+precio *= 5
+print(precio)
+
+# Divide y Asigna (/=)
+print("--------------------------------------/=")
+total = 200
+total /= 2
+print(total)
