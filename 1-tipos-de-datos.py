@@ -1,3 +1,4 @@
+#Diego Lipa
 #tipos de datos en python
 
 #1. tipo de dato numérico (int)
